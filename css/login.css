@@ -80,6 +80,12 @@ body{
 }
 
 
+@media screen { @media screen and (max-width: 600px) {}
+    h1
+    {width: 100%;
+        margin-left: 20%;
 
+    }
 
+}
  
