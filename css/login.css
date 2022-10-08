@@ -41,6 +41,8 @@ body{
     margin-top: 20px;
     font-weight: lighter;
    text-decoration: underline rgb(177, 35, 35);
+  margin-left: -1%;
+
    
     
 }
@@ -58,7 +60,8 @@ body{
     outline: none;
     background-color: rgb(173, 162, 162);
     opacity: 0.8;
-   
+    margin-bottom: 5%;
+  
 
 }
 
@@ -69,6 +72,7 @@ body{
     border-radius: 5px;
     cursor:pointer;
     color:aliceblue;
+    margin-top: -3%;
 }
 
 
